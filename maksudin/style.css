@@ -1,0 +1,54 @@
+ body
+ {
+    margin: 0;
+    padding: 0;
+ }
+ #header
+ {
+    z-index: 5 !important;
+    background-color: white;
+ }
+ .navbar
+ {
+    width: 100%;
+    height: auto;
+ }
+ .navbar-link li
+ {
+    display: inline-block !important;
+    padding: 7px 25px;
+ }
+ .navbar-link li a
+ {
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+    color:yellow;
+    font-size: 18px;
+ }
+ .dropdown:hover .dropdown-menu
+ {
+    display: block;
+ }
+ .bi-twitter
+{
+    color: blue;
+}
+.bi-snapchat
+{
+   
+    color: yellow;
+}
+.bi-whatsapp
+{
+    color: green;
+}
+.bi-instagram
+{
+
+    color: red;
+}
+.bi-facebook
+{
+   color: blue;
+}
